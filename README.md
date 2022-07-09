@@ -1,7 +1,41 @@
-- 👋 Hi, I’m @SAAneeraj
-- 👀 I’m interested in general app and tool development, DevOps, cyber security and AI
-- 🌱 I’m currently learning AI and DevOps
-- 💞️ I’m looking to collaborate on Cloud native applications, security hardened android and linux mobile OS.
-- 📫 Reach out to me on
-     - [ **Twitter** ]( https://twitter.com/neeraj_babu_)
-     - [ **Linked-In** ](https://www.linkedin.com/in/neeraj-babu-25102003/)
+ <h2 align="center">Hi, Neeraj here!</h2> 
+   
+ <br> 
+    <div align="center"><strong>About me<br>_____</strong></div> 
+
+  
+  
+ <div align="center" > 
+  <p >Frist year ME student</p>
+ </div> 
+ <br> 
+  
+  
+  
+  
+ <table align="center" width="100%" cellspacing="0" cellpadding="0" > 
+ <tbody> 
+ <tr> 
+ <td align="center"><strong>Skills</strong></td> 
+
+ </tr> 
+ <tr> 
+ <td> 
+    
+ </td> 
+
+  
+    
+   
+   
+
+ </tr> 
+ </tbody> 
+ </table> 
+  
+  
+  <h3 align="center">Socials</h3> 
+  <br> 
+  <div align="center" > 
+
+  </div>
