@@ -31,5 +31,5 @@ Reach out to me for collaborations!
 <!-- <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> -->
 <a href="https://hashnode.com/@NeerajBabu"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logoColor=white" height=25></a>
 <a href="https://medium.com/@neerajbabu27"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-<a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+</p>
 <!-- Projects Section, Content Section, LatestYoutube Video, newletter link, project badge, find me badge-->
